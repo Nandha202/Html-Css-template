@@ -1,0 +1,344 @@
+@media screen and (max-width:992px) {
+    .home-page{
+        height: 600px;
+    }
+    .top-bar{
+        height:100px;
+        padding: 10px 10px 0px 10px;
+    }
+    .top-bar h1{
+        width: 20%;
+        text-align: center;
+    }
+    .cont{
+        width:45%;
+        padding-top: 10px;
+    }
+    .conts{
+        padding-top: 5px;
+        height: 350px;
+    }
+    .details{
+        width: 50%;
+        height: 450px;
+        padding-top: 1px;
+    }
+    .details .txts{
+        height: 450px;
+        width: 100%;
+    }
+    .details h1{
+        font-size: 33px;
+    }
+    .details h2{
+        font-size: 28px;
+    }
+    .details p{
+        margin-bottom: 15px;
+    }
+    .read{
+        width: 30%;
+    }
+    .fit-img{
+        width: 50%;
+        height: 380px;
+    }
+    .page1-margin{
+        width: 50%;
+    }
+    .page1 h6{
+        font-size: 46px;
+        font-weight: 500;
+    }
+    .page1 h5{
+        margin: 10px 0px;
+    }
+    .equiement{
+        width: 90%;
+    }
+    .item{
+        float: left;
+        width: 30%;
+        margin-left: 25px;
+    }
+    .item h4{
+        width: 80%;
+    }
+    .page1 .more{
+        width: 15%;
+        margin: 0 auto;
+        font-size:18px;
+        padding: 10px;
+        border: 2px solid #eb699e;
+        color: #eb699e;
+    }
+    .page2{
+        height: 500px;
+    }
+    .page2-margin{
+        width: 80%;
+        padding-top:150px;
+    }
+    .page2 h2{
+        font-size: 22px;
+    }
+    .page2 h5{
+        font-size: 17px;
+    }
+    .rm{
+        width: 20%;
+    }
+    .page3-margin{
+        width: 90%;
+        height: 1000px;
+    }
+    .page3 h1{
+        font-size: 30px;
+    }
+    .page3 .col1{
+        float: left;
+        width: 30%;
+    }
+    .col1 .ip{
+        margin-left:15px ;
+    }
+    textarea{
+        margin-left: 15px;
+    }
+    .page4{
+        height: 600px;
+    }
+    .page4-margin{
+        height: 450px;
+    }
+    .page4 h2{
+        font-size: 30px;
+    }
+    .display{    
+        height: 240px;
+    }
+    .ovls{
+        margin: 0 auto;
+        width: 18%;
+    }
+    .page5 h1{
+        font-size: 30px;
+    }
+    .page5 h2{
+        font-size: 30px;
+    }
+    .form{
+        width: 55%;
+    }
+    .enter{
+        width: 100%;
+        height: 40px;
+        font-size: 14px;
+        padding-left: 10px;
+    }
+    .form button{
+        top: 7px;
+        width: 30%;
+        height: 30px;
+    }
+        
+}
+@media screen and (max-width:480px) {
+    .home-page{
+        height: 900px;
+    }
+    .top-bar{
+        height:100px;
+        padding: 10px 10px 0px 10px;
+    }
+    .top-bar h1{
+        margin: 0 auto;
+        width: 45%;
+        text-align: center;
+        float: none;
+    }
+    .cont{
+        width:90%;
+        float: none;
+        padding-top: 10px;
+        margin: 0 auto;
+    }
+    .conts{
+        padding-top: 5px;
+        height: 350px;
+    }
+    .details{
+        width: 100%;
+        height: 350px;
+        padding-top: 1px;
+    }
+    .details .txts{
+        height: 350px;
+        float: none;
+        width: 100%;
+    }
+    .details h1{
+        font-size: 30px;
+    }
+    .details h2{
+        font-size: 26px;
+    }
+    .details p{
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+    .read{
+        float: none;
+        width: 30%;
+    }
+    .fit-img{
+        margin: 0 auto;
+        float: none;
+        width: 90%;
+        height: 380px;
+    }
+    .page1{
+        height: 1150px;
+    }
+    .page1-margin{
+        width: 100%;
+    }
+    .page1 h6{
+        font-size: 46px;
+        font-weight: 500;
+    }
+    .page1 h5{
+        margin: 10px 0px;
+    }
+    .equiement{
+        width: 95%;
+        height: 980px;
+        padding: 0;
+    }
+    .item{
+        float: none;
+        width: 100%;
+        margin-left: 1px;
+        margin-bottom: 20px;
+    }
+    .item img{
+        margin-top: 80px;
+        margin-bottom: 15px;
+    }
+    .item h4{
+        margin: 0 auto;
+        width: 100%;
+        font-size: 20px;
+        height: 50px;
+    }
+    .page1 .more{
+        width: 25%;
+        margin: 0 auto;
+        font-size:18px;
+        padding: 10px;
+        border: 2px solid #eb699e;
+        color: #eb699e;
+    }
+    .page2{
+        height: 500px;
+    }
+    .page2-margin{
+        width: 80%;
+        padding-top:150px;
+    }
+    .page2 h2{
+        font-size: 22px;
+    }
+    .page2 h5{
+        font-size: 17px;
+    }
+    .rm{
+        width: 30%;
+    }
+    .page3{
+        color: #666;
+        height: 1100px;
+    }
+    .page3-margin{
+        width: 90%;
+        height: 1000px;
+    }
+    .page3 h1{
+        font-size: 30px;
+    }
+    .page3 .row{
+        margin: 0 auto;
+        width: 100%;
+        height: 800px;
+    }
+    .page3 .col1{
+        float: none;
+        width: 100%;
+        height: 400px;
+    }
+    .page3 .col2{
+        float: none;
+        margin-top: 0px;
+        width: 100%;
+        height: 300px;
+    }
+    .page4{
+        height: 600px;
+    }
+    .page4-margin{
+        padding-top: 80px;
+        width: 95%;
+        height: 450px;
+    }
+    .page4 h2{
+        font-size: 30px;
+    }
+    .display{
+        width: 90%;    
+        height: 240px;
+    }
+    .ovls{
+        margin: 0 auto;
+        width: 20%;
+        height: 60px;
+    }
+    .page5 h1{
+        font-size: 20px;
+    }
+    .page5 h2{
+        font-size: 20px;
+    }
+    .page5 .para{
+        width: 90%;
+    }
+    .form{
+        width: 80%;
+    }
+    .enter{
+        height: 40px;
+        font-size: 14px;
+        padding-left: 10px;
+    }
+    .form button{
+        position: relative;
+        margin-top: 10px;
+        width: 35%;
+    }
+    .last-margin{
+        height: 50px;
+        background-color: #eb699e;
+        padding-left: px;
+    }
+    .last p{
+        height: 10px;
+     }
+     .last{
+       background-color: blue;
+     }
+}
+@media screen and (max-width:380px) {
+    
+    .page2 h5 {
+        height: 90px;
+    }
+}
